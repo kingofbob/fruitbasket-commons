@@ -1,6 +1,6 @@
 {
-  "name": "commons",
-  "version": "1.0.0",
+  "name": "@soongwei/commons",
+  "version": "1.0.1",
   "description": "Common utils used by all",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soongwei2/fruitbasket-commons.git"
+  },
+  "keywords": [
+    "commons",
+    "fruitbasket"
+  ],
+  "bugs": {
+    "url": "https://github.com/soongwei2/fruitbasket-commons/issues"
+  },
+  "homepage": "https://github.com/soongwei2/fruitbasket-commons#readme"
 }

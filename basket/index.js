@@ -1,5 +1,7 @@
 module.exports = {
     ...require('./utils'),
     calculations: require('./calculations'),
-    monies: require('./monies',)
+    promotions: require('./promotions'),
+    monies: require('./monies'),
+    invoice: require('./invoice'),
 }
